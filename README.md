@@ -1,4 +1,4 @@
-# ML Pipeline Image Classification Model with Firebase
+React App with ML Pipeline Image Classification Model x Firebase
 
 
 
